@@ -1,0 +1,11 @@
+h1 {color:red; font-family: fantasy;}
+h2 {color:green; font-family: inherit;
+}
+
+
+.purpletext {color: purple;
+}
+
+#fantasytext {
+  font-family: fantasy;
+}
